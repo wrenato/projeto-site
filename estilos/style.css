@@ -32,7 +32,8 @@ a {
 }
 
 a:hover {
-  text
+  text-decoration: underline;
+  color: rgb(149, 114, 182);
 }
 
 img.lado{
